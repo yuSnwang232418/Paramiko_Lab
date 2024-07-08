@@ -1,9 +1,10 @@
 import paramiko
 import time
 import getpass
+from datetime import datetime
 
 
-def connect(server_ip, server_port, username):
+def connect(server_ip, server_port, username, config):
     password = 'wyx'
     ssh_client = paramiko.SSHClient()
     ssh_client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
@@ -33,6 +34,13 @@ def close(ssh_client):
     if ssh_client.get_transport().is_active():
         print('Closing connection')
         ssh_client.close()
+
+
+def get_name(router_ip):
+    now = datetime.now()
+    year, month, day, hour, minute = now.year, now.month, now.day, now.hour, now.minute
+    file_name = f"{router_ip}_{year}-{month}-{day}-{hour}-{minute}.txt"
+    return file_name
 
 
 if __name__ == '__main__':

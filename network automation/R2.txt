@@ -1,0 +1,8 @@
+enable
+conf t
+int loopback 0
+ip address 2.2.2.2 255.255.255.255
+end
+terminal len 0
+sh int lo0
+write

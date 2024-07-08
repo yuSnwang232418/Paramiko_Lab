@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3ea897b-ac79-421e-8850-82884bb96eee" name="Changes" comment="1.0 Initial">
-      <change beforePath="$PROJECT_DIR$/.idea/lab_paramiko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lab_paramiko.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a3ea897b-ac79-421e-8850-82884bb96eee" name="Changes" comment="1.2 7.7.2024">
+      <change afterPath="$PROJECT_DIR$/network automation/R1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network automation/R2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network automation/R3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network automation/myparamiko.py" beforeDir="false" afterPath="$PROJECT_DIR$/network automation/myparamiko.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network automation/work1_paramiko.py" beforeDir="false" afterPath="$PROJECT_DIR$/network automation/work1_paramiko.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +49,16 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/PyProjects/Automation&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyProjects\Automation\network automation" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,7 +83,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719236254635</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.2 6.26.2024">
+      <option name="closed" value="true" />
+      <created>1719468416248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719468416248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.2 6.26.2024">
+      <option name="closed" value="true" />
+      <created>1719468451163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719468451163</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.2 7.7.2024">
+      <option name="closed" value="true" />
+      <created>1720401386975</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720401386975</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0 Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0 Initial" />
+    <MESSAGE value="1.2 6.26.2024" />
+    <MESSAGE value="1.2 7.7.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.2 7.7.2024" />
   </component>
 </project>
