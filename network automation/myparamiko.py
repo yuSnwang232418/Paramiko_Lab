@@ -3,7 +3,8 @@ import time
 import getpass
 
 
-def connect(server_ip, server_port, username, password):
+def connect(server_ip, server_port, username):
+    password = 'wyx'
     ssh_client = paramiko.SSHClient()
     ssh_client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
     print(f'Connecting to {server_ip}')
