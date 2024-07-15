@@ -24,3 +24,6 @@ Network Automation Lab based on GNS3 platform, Python, Paramiko library (Win env
 
 Can sucessfully ping from windows to network in GNS VM.
 ![image](https://github.com/user-attachments/assets/03278498-4c88-47b5-a8c4-68c848bf5d2d)
+
+## Usage
+Run work1_paramiko.py
