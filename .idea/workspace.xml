@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3ea897b-ac79-421e-8850-82884bb96eee" name="Changes" comment="1.2 7.7.2024">
-      <change afterPath="$PROJECT_DIR$/network automation/R1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network automation/R2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network automation/R3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/connect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network automation/myparamiko.py" beforeDir="false" afterPath="$PROJECT_DIR$/network automation/myparamiko.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network automation/work1_paramiko.py" beforeDir="false" afterPath="$PROJECT_DIR$/network automation/work1_paramiko.py" afterDir="false" />
-    </list>
+    <list default="true" id="a3ea897b-ac79-421e-8850-82884bb96eee" name="Changes" comment="1.3 7.7.2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720401386975</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1.3 7.7.2024">
+      <option name="closed" value="true" />
+      <created>1720414350215</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720414350215</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +125,7 @@
     <MESSAGE value="1.0 Initial" />
     <MESSAGE value="1.2 6.26.2024" />
     <MESSAGE value="1.2 7.7.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.2 7.7.2024" />
+    <MESSAGE value="1.3 7.7.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.3 7.7.2024" />
   </component>
 </project>
